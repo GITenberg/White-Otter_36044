@@ -1,0 +1,25 @@
+_repo: White-Otter_36044
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36044-h/images/cover.png
+creator:
+  author:
+    agent_name: Gregor, Elmer Russell
+    birthdate: 1878
+    gutenberg_agent_id: '37423'
+    url: http://www.gutenberg.org/2009/agents/37423
+description: ''
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+title: White Otter
+url: http://www.gutenberg.org/ebooks/36044
