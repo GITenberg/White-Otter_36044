@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37423'
     url: http://www.gutenberg.org/2009/agents/37423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36044#White-Otter
 gutenberg_issued: '2011-05-06'
 gutenberg_type: Text
 identifiers:
